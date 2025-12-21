@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtMapExec be42fa02-882b-4b09-8bc6-940f87498be5 __0792aa7e-8d3d-403d-96c9-aedf1523f57a, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [false,null])[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(exit, Some(__0792aa7e-8d3d-403d-96c9-aedf1523f57a), Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__disconnectNetworkChannel network-1, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtCompleteExec be42fa02-882b-4b09-8bc6-940f87498be5, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [true,null])[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtPopOnFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtReportResult be42fa02-882b-4b09-8bc6-940f87498be5, Some(be42fa02-882b-4b09-8bc6-940f87498be5), Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtMapExec 49 __64493c87-8e74-455d-b4e1-54cb030a6e26, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(bspBuildTargetCompile , Some(__64493c87-8e74-455d-b4e1-54cb030a6e26), Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing buildTarget/compile"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: bspBuildTargetCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 2025/12/20 9:30:22[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtCompleteExec 49, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtPopOnFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtReportResult 49, Some(49), Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId Some(49): None[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched json response for requestId Some(49): {"status":"Done","channelName":"network-1","execId":"49","commandQueue":["shell"],"exitCode":0}[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

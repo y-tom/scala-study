@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec($PSVersionTable, Some(de32d751-43f8-49a6-84d2-b7f2446f103a), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mExpected symbol[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: $[0m
+[0m[[0m[31merror[0m] [0m[0m$PSVersionTable[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mserver failed to start on local:sbt-server-8ec61918be176a296133. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-8ec61918be176a296133_lock, error 5[0m

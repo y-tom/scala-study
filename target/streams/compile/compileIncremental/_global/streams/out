@@ -1,0 +1,56 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 12 products, 4 sources, 1 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/Factorial.scala, ${BASE}/Factorization.scala, ${BASE}/SimpleSearch.scala, ${BASE}/Main.scala, ${BASE}/Distance.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(${BASE}/SimpleSearch.scala), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(${BASE}/SimpleSearch.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/SimpleSearch.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Yukako\workspace\scala-study\target\scala-2.12\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.11.0:compile for Scala 2.12.20[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 678d9b09 for Scala compiler version 2.12.20[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:C:\Users\Yukako\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scalameta\semanticdb-scalac_2.12.20\4.14.0\semanticdb-scalac_2.12.20-4.14.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Yrangepos[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:semanticdb:synthetics:on[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:semanticdb:failures:warning[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:semanticdb:sourceroot:C:\Users\Yukako\workspace\scala-study[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:semanticdb:targetroot:C:\Users\Yukako\workspace\scala-study\target\scala-2.12\meta[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\Yukako\.sbt\boot\scala-2.12.20\lib\scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\Yukako\workspace\scala-study\target\scala-2.12\classes;C:\Users\Yukako\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\com\sourcegraph\semanticdb-javac\0.11.1\semanticdb-javac-0.11.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 5.2828247 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from SimpleSearch...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: SimpleSearch[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(SimpleSearch)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(SimpleSearch,ModifiedNames(changes = UsedName(pattern,[Default]), UsedName(executionStart,[Default]), UsedName(getClass,[Default]), UsedName($init$,[Default]), UsedName(matchIndexes,[Default]), UsedName(eq,[Default]), UsedName(ne,[Default]), UsedName(hashCode,[Default]), UsedName(args,[Default]), UsedName(!=,[Default]), UsedName(isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(search,[Default]), UsedName(toString,[Default]), UsedName(notifyAll,[Default]), UsedName(synchronized,[Default]), UsedName(text,[Default]), UsedName(SimpleSearch,[Default]), UsedName(asInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(main,[Default]), UsedName(##,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName(delayedInit,[Default]), UsedName(wait,[Default]))) invalidates 1 classes due to The SimpleSearch has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(pattern,[Default]), UsedName(executionStart,[Default]), UsedName(getClass,[Default]), UsedName($init$,[Default]), UsedName(matchIndexes,[Default]), UsedName(eq,[Default]), UsedName(ne,[Default]), UsedName(hashCode,[Default]), UsedName(args,[Default]), UsedName(!=,[Default]), UsedName(isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(search,[Default]), UsedName(toString,[Default]), UsedName(notifyAll,[Default]), UsedName(synchronized,[Default]), UsedName(text,[Default]), UsedName(SimpleSearch,[Default]), UsedName(asInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(main,[Default]), UsedName(##,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName(delayedInit,[Default]), UsedName(wait,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > by transitive inheritance: Set(SimpleSearch)[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > [0m
+[0m[[0m[0mdebug[0m] [0m[0m  > [0m
+[0m[[0m[0mdebug[0m] [0m[0m  > [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: SimpleSearch[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated macros due to upstream dependencies change: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m

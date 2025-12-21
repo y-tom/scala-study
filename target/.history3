@@ -1,0 +1,21 @@
+1765604044743:console
+1765604221868:sbt console
+1765604242932::workspace/scala-study で sbt console と実行するだけで大丈夫です。
+1765604249420:console
+1765676784449:sbt:scala-study> run
+1765676788072:run
+1765679192058:$PSVersionTable
+1765679517298:exit
+1765679639650:run
+1765679881490:code .
+1765680127818:run
+1766187510493:runMain Factorization
+1766187641051:console
+1766190048515:runMain Factorization
+1766285321224:runMain SimpleSearch
+1766285344623:場面推奨
+1766285344747:基本val
+1766285344826:for / map / filterval
+1766285344873:再代入が不要val
+1766285344944:while / do-whilevar
+1766285344998:一時的なカウンタvar

@@ -988,3 +988,230 @@ java.util.concurrent.TimeoutException: Future timed out after [15 seconds]
 2025.12.21 12:04:02 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Distance.scala. Using presentation compiler with project's scala-library version: 3.3.6
 2025.12.21 12:04:04 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Distance.scala. Using presentation compiler with project's scala-library version: 3.3.6
 2025.12.21 12:04:06 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Distance.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:58 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Distance.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:58 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\Main.scala
+2025.12.21 12:04:58 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:58 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:58 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:58 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\Factorization.scala
+2025.12.21 12:04:58 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:58 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:59 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:59 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\Main.scala
+2025.12.21 12:04:59 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:59 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:59 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:04:59 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:00 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\RegexSearch.scala
+2025.12.21 12:05:00 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:00 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:00 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:00 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:00 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\Main.scala
+2025.12.21 12:05:00 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:01 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:02 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:05:27 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:05:34 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:34 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\Factorization.scala
+2025.12.21 12:05:34 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:34 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:35 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:05:35 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:06:40 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:06:41 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:07:06 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:07:06 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:07:09 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:07:10 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:10 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:10 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:07:12 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:07:12 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:12 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:07:18 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:07:18 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:19 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:07:21 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:07:21 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:21 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Exception in thread "pool-81-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025.12.21 12:07:21 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:07:26 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:07:27 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:27 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:07:30 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:07:30 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:31 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:07:36 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:07:42 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:07:42 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:07:43 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:42 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:43 INFO  Created report: Optional[file:///C:/Users/Yukako/workspace/scala-study/Factorization.scala]
+2025.12.21 12:07:43 INFO  empty definition using pc, found symbol in pc: scala/collection/MapOps#getOrElse(). (full report at: "C:\Users\Yukako\workspace\scala-study\.metals\.reports\metals-full\2025-12-21\r_empty-definition_12-07-43-761.md")
+2025.12.21 12:07:43 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:43 INFO  empty definition using pc, found symbol in pc: scala/collection/MapOps#getOrElse(). (full report at: "C:\Users\Yukako\workspace\scala-study\.metals\.reports\metals-full\2025-12-21\r_empty-definition_12-07-43-761.md")
+12åé 21, 2025 12:07:48 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:07:48 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:52 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:52 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:52 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:53 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:53 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:52 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:54 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:54 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:54 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:56 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\Factorization.scala
+2025.12.21 12:07:56 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:07:56 WARN  No build session currently active to reload. Attempting to reconnect.
+2025.12.21 12:07:56 INFO  Attempting to connect to the build server...
+12åé 21, 2025 12:08:00 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:08:00 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:08:01 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:08:11 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException: Future timed out after [15 seconds]
+	at scala.concurrent.Future$.timeoutError(Future.scala:581)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:258)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:271)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:208)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:125)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:295)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.12.21 12:08:35 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:08:41 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:08:41 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:08:45 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:08:45 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:08:48 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:08:49 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 12:11:39 åﬂå„ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+èÓïÒ: Unsupported notification method: $/setTrace
+2025.12.21 12:11:39 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:11:40 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:11:40 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:13:40 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:15:37 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:15:37 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:15:38 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:16:10 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:05 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Factorization.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:05 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\Main.scala
+2025.12.21 12:18:05 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:05 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:05 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:05 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:07 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:07 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\RegexSearch.scala
+2025.12.21 12:18:07 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:07 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:07 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:07 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:08 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:09 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:09 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala
+2025.12.21 12:18:09 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:09 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:09 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:09 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:09 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:09 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:10 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:10 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:11 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:18:10 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:36 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:37 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:37 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:37 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:39 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:43 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:43 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:43 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:45 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Exception in thread "pool-121-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025.12.21 12:20:45 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:45 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:45 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:46 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:20:46 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:21:40 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:21:40 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:25:30 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:32 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:32 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:33 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:33 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:41 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:44 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:44 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:44 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:44 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:45 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:45 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:47 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:26:49 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:27:22 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:48:34 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 12:48:37 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:05:22 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:05:22 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:11:28 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:11:28 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:11:28 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\RegexSearch.scala
+2025.12.21 13:11:28 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:11:28 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:11:28 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:11:29 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:11:29 INFO  time: code lens generation in 1.17s
+2025.12.21 13:23:39 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\RegexSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:23:40 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:23:40 WARN  no build target for: C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala
+2025.12.21 13:23:39 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:23:40 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+12åé 21, 2025 1:23:40 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 415
+2025.12.21 13:23:39 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:23:40 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:23:40 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:23:42 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:24:07 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:37:19 INFO  no build target found for C:\Users\Yukako\workspace\scala-study\SimpleSearch.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.21 13:43:22 INFO  Shutting down server
+2025.12.21 13:43:22 INFO  shutting down Metals
+2025.12.21 13:43:22 INFO  Exiting server
